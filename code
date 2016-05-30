@@ -1,1 +1,1 @@
-$ sed 's/\./_/g' inputfile > outputfile
+$ sed 's/\buscar/reemplazarpor/g' inputfile > outputfile
